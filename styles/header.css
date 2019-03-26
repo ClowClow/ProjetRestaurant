@@ -1,0 +1,10 @@
+.menu{
+  display: grid;
+  grid-template-columns: 55% 15% 15% 15%;
+  height: 70px;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 70px;
+  background-color: white;
+  color: #cd142a;
+}
