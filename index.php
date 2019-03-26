@@ -11,8 +11,11 @@
   <div class="header">
   <?php include 'header.php'; ?>
   </div>
-  <div class="footer">
-  <?php include 'footer.php'; ?>
-  </div>
+
+
+  
 </body>
+<footer>
+  <?php include 'footer.php'; ?>
+</footer>
 </html>
