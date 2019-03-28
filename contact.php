@@ -25,7 +25,7 @@
         <input type="text" name="mail" value="Adresse mail" class="mail" size="50%"><br/>
         <input type="text" name="objet" value="Objet de votre demande" class="object"
     size="50%"><br/>
-      <textarea id="demande" name="votre demande" rows="auto" cols="auto" size="50%">
+      <textarea id="demande" name="votre demande" rows="auto" cols="67%">
       </textarea><br/>
       <input type="submit" value="Envoyer" class="send"><br/>
   </form>
