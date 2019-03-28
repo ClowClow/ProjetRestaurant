@@ -3,8 +3,8 @@
 <head>
   <title>Contact</title>
   <meta charset="utf8"/>
-  <link href="styles/contact.css" type="text/css"
-  rel="stylesheet">
+  <link href="styles/reset.css" type="text/css" rel="stylesheet">
+  <link href="styles/contact.css" type="text/css" rel="stylesheet">
 </head>
 <html>
 <body>
