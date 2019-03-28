@@ -1,22 +1,13 @@
 body {
   position: relative;
   width: 100%;
-  color: #e30045;
-  text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000,
-  0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000;
 }
+/* Image de fond  */
 .imgb {
   background-image: url(../images/buffet.jpg);
   background-size: cover;
 }
-form h1
-{
-  font-size: 50px;
-  margin-top: 30px;
-}
-.mail, .send, .object, textarea {
-  margin-top: 30px;
-}
+/* Affichage de la carte */
 .map {
   text-align: center;
 }
@@ -25,8 +16,78 @@ form h1
   background-color: #343332;
   width: 100%;
 }
+/* Pop ups sur la carte */
+.cercle {
+    background-color: black;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    filter: opacity(100%);
+    z-index: 9;
+    overflow: hidden;
+}
+#lille:hover, #nantes:hover, #paris:hover, #charleville:hover, #lyon:hover,
+#marseille:hover{
+  position: absolute;
+  color: #e30045;
+  background: black;
+  padding: 100px;
+  border-radius: 3px;
+  overflow: visible;
+}
+#lille{
+  position: absolute;
+  margin-top: -555px;
+  margin-left: 52.1%;
+  color: transparent;
+}
+#nantes {
+  position: absolute;
+  margin-top: -325px;
+  margin-left: 41.8%;
+  color: transparent;
+}
+#paris {
+  position: absolute;
+  margin-top: -430px;
+  margin-left: 50.1%;
+  color: transparent;
+}
+#charleville {
+  position: absolute;
+  margin-top: -495px;
+  margin-left: 55.2%;
+  color: transparent;
+}
+#lyon {
+  position: absolute;
+  margin-top: -225px;
+  margin-left: 55.6%;
+  color: transparent;
+}
+#marseille {
+  position: absolute;
+  margin-top: -65px;
+  margin-left: 56.6%;
+  color: transparent;
+}
+/* Formulaire */
 .form {
   text-align: center;
+}
+form h1
+{
+  font-size: 50px;
+  margin-top: 30px;
+  color: #e30045;
+  text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000,
+  0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000;
+}
+.mail, .send, .object, textarea {
+  margin-top: 30px;
+}
+.send {
+  margin-bottom: 30px;
 }
 input, textarea{
   background-color: #343332;
@@ -39,9 +100,7 @@ input, textarea{
   box-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000,
   0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000, 0px 0px 5px #000000;
 }
-.send {
-  margin-bottom: 30px;
-}
+/* Liens */ 
 a {
   text-decoration: none;
   color: white;

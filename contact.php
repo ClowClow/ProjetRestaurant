@@ -15,6 +15,12 @@
   <div class="mapframe">
   <div class="map">
     <img src="images/carte.png" alt="carte de nos restaurants" class="map"/>
+    <div id="lille" class="cercle">Lille</div>
+    <div id="nantes" class="cercle">Nantes</div>
+    <div id="paris" class="cercle">Paris</div>
+    <div id="charleville" class="cercle">Charleville</div>
+    <div id="lyon" class="cercle">Lyon</div>
+    <div id="marseille" class="cercle">Marseille</div>
   </div>
   </div>
   <div class="form">
