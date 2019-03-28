@@ -12,10 +12,9 @@
   <?php include 'header.php'; ?>
   </div>
 
-
-  
-</body>
-<footer>
+<p>BlaBlaBla</p>
+<div class="footer">
   <?php include 'footer.php'; ?>
-</footer>
+</div>
+</body>
 </html>

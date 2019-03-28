@@ -6,15 +6,17 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   height: 150px;
+  width: 100%;
   text-transform: uppercase;
   text-align: center;
   line-height: 150px;
-  background-color: white;
+  background-color: pink;
   color: black;
-  font-size: 20px;
+  font-size: 40px;
+  position: relative;
 }
 .logo {
-  position: fixed;
+  position: absolute;
   text-align: left;
   margin-top: 20px;
   margin-left: 20px;
