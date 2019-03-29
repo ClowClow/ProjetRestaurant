@@ -3,6 +3,7 @@
 <head>
   <title>Contact</title>
   <meta charset="utf8"/>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
   <link href="styles/reset.css" type="text/css" rel="stylesheet">
   <link href="styles/contact.css" type="text/css" rel="stylesheet">
 </head>
@@ -15,7 +16,9 @@
   <div class="mapframe">
   <div class="map">
     <img src="images/carte.png" alt="carte de nos restaurants" class="map"/>
-    <div id="lille" class="cercle">Lille</div>
+    <div id="lille" class="cercle">
+    Lille<br/>rue Masséna</br>Ouvert exclusivement de nuit !!
+    </div>
     <div id="nantes" class="cercle">Nantes</div>
     <div id="paris" class="cercle">Paris</div>
     <div id="charleville" class="cercle">Charleville</div>

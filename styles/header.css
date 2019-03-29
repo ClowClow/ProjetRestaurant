@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+.logo{
+  position: relative;
+  max-width: 100%;
+  max-height: auto;
+}
+}
 .menu{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;

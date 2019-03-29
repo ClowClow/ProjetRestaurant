@@ -38,14 +38,12 @@ a:focus, a:active{
   display: flex;
   justify-content: space-around;
 }
-
 .benoit{
   font-size: 25px;
   position: relative;
   top: 70px;
   right: 70px;
 }
-
 .bg{
   position: relative;
   left: 65px;
