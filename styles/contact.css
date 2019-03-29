@@ -4,6 +4,7 @@ body {
 /* Image de fond  */
 .imgb {
   background-image: url(../images/buffet.jpg);
+  background-repeat:no-repeat;
   background-size: cover;
 }
 /* Affichage de la carte */
@@ -13,6 +14,7 @@ body {
 .mapframe {
   display: block;
   background-color: #343332;
+
   width: 100%;
 }
 /* Pop ups sur la carte */
