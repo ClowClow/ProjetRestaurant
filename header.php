@@ -1,5 +1,6 @@
 <header>
   <link href="styles/reset.css" type="text/css" rel="stylesheet">
+  <link href="styles/bootstrap/dist/css/bootstrap.css" type="text/css" rel="stylesheet">
   <link href="styles/header.css" type="text/css" rel="stylesheet">
   <div class="menu">
     <div class= "logo"><img src="images/logo.png" height="120px" width="160px"></div>

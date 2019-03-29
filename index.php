@@ -5,6 +5,7 @@
   <meta charset="utf8"/>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
   <link href="styles/reset.css" type="text/css" rel="stylesheet">
+  <link href="styles/bootstrap/dist/css/bootstrap.css" type="text/css" rel="stylesheet">
   <link href="styles/index.css" type="text/css" rel="stylesheet">
 </head>
 <html>
