@@ -3,14 +3,15 @@
 <head>
   <title>Accueil</title>
   <meta charset="utf8"/>
-  <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link href="styles/reset.css" type="text/css" rel="stylesheet">
-  <link href="styles/bootstrap/dist/css/bootstrap.css" type="text/css" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link href="styles/index.css" type="text/css" rel="stylesheet">
 </head>
 <html>
 <body>
-  <div class="header">
+  <div class="header" class=".navbar">
   <?php include 'header.php'; ?>
   </div>
 
@@ -91,7 +92,7 @@
 
       <img src="images/simplon.png" alt="logo resto" height="400px" />
 
-      <p class="txt_simplon">Entreprise de l’économie sociale et solidaire (agrément ESUS), Simplon.co est un réseau de « fabriques » (écoles) qui propose des formations gratuites pour les apprenant.e.s et intensives pour devenir développeur.se de sites web et d’applications mobiles, intégrateur.trice, référent numérique, datartisan, e-commerçant...
+      <p class="">Entreprise de l’économie sociale et solidaire (agrément ESUS), Simplon.co est un réseau de « fabriques » (écoles) qui propose des formations gratuites pour les apprenant.e.s et intensives pour devenir développeur.se de sites web et d’applications mobiles, intégrateur.trice, référent numérique, datartisan, e-commerçant...
       </p>
 
     <div class="benoit">

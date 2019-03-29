@@ -1,5 +1,6 @@
 <footer>
   <link href="styles/reset.css" type="text/css" rel="stylesheet">
+  <link href="styles/bootstrap/dist/css/bootstrap.css" type="text/css" rel="stylesheet">
   <link href="styles/footer1.css" rel="stylesheet" type="text/css">
 
   <div class="footer">
