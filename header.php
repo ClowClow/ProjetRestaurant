@@ -8,6 +8,6 @@
     <div><img src="images/logo.png" height="120px" width="160px"></div>
     <div><a class="navbar-text" href="index.php">Accueil</a></div>
     <div><a class="navbar-text" href="resto.php">Nos Restaurants</a></div>
-    <div><a class="navbar-text" href="contact.php" target="_blank">Contact</a></div>
+    <div><a class="navbar-text" href="contact.php">Contact</a></div>
   </nav>
 </header>
