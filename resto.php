@@ -36,7 +36,7 @@
               <li>steak jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
             </ul>
 
-            <img class="steak" src="images/807704.jpg" alt="resto_lille" height="300px"/>
+            <img class="steak" src="images/lille.jpg" alt="resto_lille" height="300px"/>
           </div>
       </div>
   </div>
@@ -64,7 +64,7 @@
             <li>burger jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
           </ul>
 
-          <img class="burger" src="images/634a11d881d3cc70d4dc28af0e71a0f3_large.jpeg" alt="resto_nantes" height="300px"/>
+          <img class="burger" src="images/nantes.jpeg" alt="resto_nantes" height="300px"/>
         </div>
     </div>
 </div>
@@ -92,7 +92,7 @@
             <li>sandwich jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
           </ul>
 
-          <img class="sandwich" src="images/ob_008551_fast-food-hot-dog-wallpapers.jpg" alt="resto_paris" height="300px"/>
+          <img class="sandwich" src="images/paris.jpg" alt="resto_paris" height="300px"/>
         </div>
     </div>
 </div>
@@ -120,7 +120,7 @@
             <li>chinois jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
           </ul>
 
-          <img class="chinois" src="images/shutterstock_446808100.0.0.jpeg" alt="resto_cm" height="300px"/>
+          <img class="chinois" src="images/charleville.jpeg" alt="resto_cm" height="300px"/>
         </div>
     </div>
 </div>
@@ -148,7 +148,7 @@
             <li>sushi jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
           </ul>
 
-          <img class="sushi" src="images/sushi_plate_dish_78955_1920x1080.jpg" alt="resto_lyon" height="300px"/>
+          <img class="sushi" src="images/lyon.jpg" alt="resto_lyon" height="300px"/>
         </div>
     </div>
 </div>
@@ -176,7 +176,7 @@
             <li>pizza jaune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45.56€</li>
           </ul>
 
-          <img class="pizza" src="images/thumb-1920-396575.jpg" alt="resto_marseille" height="300px"/>
+          <img class="pizza" src="images/marseille.jpg" alt="resto_marseille" height="300px"/>
         </div>
     </div>
 </div>

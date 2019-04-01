@@ -89,7 +89,6 @@ Touts nos restaurants ont une spécialité, pour en savoir plus <a href="resto.p
           <div class="img_restaurant">
             <img src="images/resto1.jpg" alt="resto1" width="550px" height="350px"/>
             <img src="images/resto2.jpg" alt="resto2" width="550px" height="350px"/>
-
             <img src="images/resto3.jpg" alt="resto3" width="550px" height="350px"/>
             <img src="images/resto4.jpg" alt="resto4" width="550px" height="350px"/>
           </div>
