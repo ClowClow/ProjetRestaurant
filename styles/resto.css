@@ -1,0 +1,21 @@
+body{
+  background-image: url("../images/fond.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.card{
+  font-size: 20px;
+}
+
+@media screen and (max-width: 1264px)
+
+{
+
+img {
+  max-height: 200px;
+  max-width: 300px;
+}
+
+}
